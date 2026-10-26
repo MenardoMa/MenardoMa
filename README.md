@@ -109,7 +109,7 @@ Plateforme tierce basée à Brazzaville, connectée à MTN afin de prendre en ch
 
 > Les descriptions de ces projets restent volontairement générales afin de préserver les informations internes et confidentielles.
 
----
+--- 
 
 ## 💻 Stack technique
 
@@ -125,6 +125,7 @@ Plateforme tierce basée à Brazzaville, connectée à MTN afin de prendre en ch
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -136,6 +137,7 @@ Plateforme tierce basée à Brazzaville, connectée à MTN afin de prendre en ch
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### 📦 Gestion des dépendances & Outils de build
 
