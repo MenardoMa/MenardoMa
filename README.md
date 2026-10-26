@@ -1,126 +1,209 @@
-Salut, moi c'est Menardo Madiumba 👋
-Ingénieur logiciel | Développement Backend & Full-Stack
 
-Je suis un ingénieur logiciel originaire de Kinshasa, en République démocratique du Congo 🇨🇩, et je travaille à Brazzaville, en République du Congo, depuis 2025.
+# Salut, moi c'est Menardo Madiumba 👋
 
-Je conçois et développe des applications web, des services backend, des API et des solutions logicielles destinées à répondre à des besoins concrets. Je m'intéresse particulièrement à l'ingénierie backend, à l'architecture logicielle, aux outils pour développeurs et à la conception de systèmes fiables, maintenables et évolutifs.
+### 💻 Ingénieur logiciel | Backend & Full-Stack Development
 
-Mon objectif est d'apprendre continuellement, de contribuer à la recherche et à l'innovation technologiques et de concevoir des solutions logicielles utiles aux personnes, aux entreprises et aux communautés.
+Ingénieur logiciel originaire de Kinshasa, en République démocratique du Congo 🇨🇩, je travaille à Brazzaville, en République du Congo 🇨🇬, depuis 2025.
 
-👨‍💻 À propos de moi
-🎓 Formation : Licence en Génie Informatique.
-📍 Localisation actuelle : Brazzaville, République du Congo 🇨🇬.
-💼 Expérience professionnelle : Contribution au développement de plateformes numériques et de solutions logicielles depuis 2025.
-🧠 Centres d'intérêt : Ingénierie backend, développement d'API, architecture logicielle, automatisation et open source.
-🌱 En cours d'apprentissage : DevOps, Laravel avancé, Node.js avancé, architecture logicielle avancée et intelligence artificielle générative.
-🎯 Objectif à long terme : Contribuer à la recherche et à l'évolution technologiques en concevant des solutions logicielles utiles, fiables et évolutives.
-🚀 En bref
-⚙️ Je développe des services backend, des API REST et des applications métier.
-🔗 Je m'intéresse à l'intégration d'API, à l'authentification, aux bases de données et à la logique métier.
-🧩 Je m'intéresse aux outils pour développeurs, à la génération de code, aux outils CLI et à l'automatisation.
-📱 Je conçois des applications full-stack, des tableaux de bord et j'explore le développement mobile avec React Native.
-🏗️ J'accorde de l'importance à l'architecture propre, à la modularité, aux composants réutilisables et à l'évolutivité des systèmes.
-📚 Je crois en l'apprentissage continu, au partage des connaissances et au travail collaboratif.
-🛠️ Ce que je développe
-⚙️ Ingénierie Backend
-Développement d'API REST
-Authentification et gestion des autorisations
-Conception et intégration de bases de données
-Implémentation de la logique métier
-Intégration d'API tierces
-Développement de services backend et conception applicative
-🧩 Outils pour développeurs et automatisation
-Génération de code
-Outils en ligne de commande (CLI)
-Automatisation des workflows de développement
-Utilitaires et composants réutilisables
-Outils destinés à améliorer la productivité des développeurs
-📱 Applications
-Applications web full-stack
-Tableaux de bord interactifs
-Interfaces utilisateur adaptatives
-Développement d'applications mobiles avec React Native
-🏗️ Conception et architecture logicielle
-Principes de Clean Architecture
-Conception de logiciels modulaires et maintenables
-Composants réutilisables
-Séparation des responsabilités
-Conception de systèmes évolutifs
-💼 Projets professionnels
+Je conçois et développe des applications web, des services backend, des API et des solutions logicielles répondant à des besoins concrets. Je m'intéresse particulièrement à l'ingénierie backend, à l'architecture logicielle, aux outils pour développeurs et à la conception de systèmes fiables, maintenables et évolutifs.
 
-Les projets suivants illustrent ma contribution au développement de plateformes numériques et de solutions logicielles.
+🎯 Mon ambition est d'apprendre continuellement, de contribuer à la recherche et à l'innovation technologiques et de concevoir des solutions logicielles utiles aux personnes, aux entreprises et aux communautés.
 
-🧾 Timbre — Plateforme de timbrage de documents
+---
 
-Une plateforme basée à Brazzaville, dédiée au timbrage de documents.
+## 👨‍💻 À propos de moi
 
-Domaines concernés : Développement d'applications web, workflows métier et services numériques liés aux documents.
+- 🎓 **Formation :** Licence en Génie Informatique.
+- 📍 **Localisation :** Brazzaville, République du Congo 🇨🇬.
+- 💼 **Expérience :** Contribution au développement de plateformes numériques et de solutions logicielles depuis 2025.
+- 🧠 **Centres d'intérêt :** Ingénierie backend, développement d'API, architecture logicielle, automatisation et open source.
+- 🌱 **Actuellement en apprentissage :** DevOps, Laravel avancé, Node.js avancé, architecture logicielle avancée et intelligence artificielle générative.
+- 🚀 **Vision :** Contribuer à l'évolution technologique en développant des solutions utiles, fiables et évolutives.
 
-🏛️ FOUTA — Plateforme de collecte des recettes publiques
+---
 
-Une plateforme de l'État destinée à faciliter la collecte des recettes publiques.
+## 🚀 En bref
 
-FOUTA joue un double rôle : celui de passerelle (gateway), en se connectant aux banques, et celui de commutateur (switch), en assurant l'orientation et la distribution des transactions liées aux recettes de l'État.
+- ⚙️ Développement de services backend, d'API REST et d'applications métier.
+- 🔗 Intégration d'API, authentification, bases de données et logique métier.
+- 🧩 Conception d'outils pour développeurs, génération de code, outils CLI et automatisation.
+- 📱 Développement d'applications full-stack, de tableaux de bord et exploration de React Native.
+- 🏗️ Conception logicielle axée sur la modularité, la réutilisabilité et l'évolutivité.
+- 📚 Apprentissage continu, partage des connaissances et collaboration technique.
 
-Domaines concernés : Systèmes backend, intégration de services financiers, routage des transactions et communication entre API.
+---
 
-📩 BNotif — Plateforme de messagerie
+## 🛠️ Domaines de développement
 
-Une plateforme tierce basée à Brazzaville, connectée à MTN pour prendre en charge des services de SMS et d'e-mails personnalisés.
+### ⚙️ Ingénierie Backend
 
-Domaines concernés : Intégration de plateformes, services de messagerie, communication via API et notifications personnalisées.
+- Développement d'API REST.
+- Authentification et gestion des autorisations.
+- Conception et intégration de bases de données.
+- Implémentation de la logique métier.
+- Intégration d'API tierces.
+- Développement de services backend et conception applicative.
 
-Les descriptions restent volontairement générales afin de ne pas exposer de détails internes ou confidentiels.
+### 🧩 Outils pour développeurs & Automatisation
 
-💻 Stack technique
-Langages
+- Génération de code.
+- Développement d'outils en ligne de commande (CLI).
+- Automatisation des workflows de développement.
+- Création d'utilitaires et de composants réutilisables.
+- Amélioration de la productivité des développeurs.
 
-!Python !JavaScript !TypeScript !PHP !HTML5 !CSS3
+### 📱 Applications
 
-Frontend
+- Développement d'applications web full-stack.
+- Création de tableaux de bord interactifs.
+- Conception d'interfaces utilisateur adaptatives.
+- Développement d'applications mobiles avec React Native.
 
-!React !Vue.js !Tailwind CSS !Bootstrap !jQuery
+### 🏗️ Conception & Architecture logicielle
 
-Backend
+- Principes de Clean Architecture.
+- Conception de logiciels modulaires et maintenables.
+- Développement de composants réutilisables.
+- Séparation des responsabilités.
+- Conception de systèmes évolutifs.
 
-!Django !Node.js !Express.js !Laravel
+---
 
-Bases de données
+## 💼 Projets professionnels
 
-!MySQL !PostgreSQL !MongoDB
+Voici quelques plateformes numériques auxquelles j'ai contribué dans le cadre de mon parcours professionnel.
 
-Outils et workflows
+### 🧾 Timbre — Plateforme de timbrage de documents
 
-!Git !GitHub !GitLab !Docker !Postman
+Plateforme basée à Brazzaville, dédiée au timbrage de documents et aux services numériques associés.
 
-Environnement de développement et design
+**Domaines concernés :**
+- Développement d'applications web.
+- Gestion des workflows métier.
+- Services numériques liés aux documents.
 
-!VS Code !Figma !Cursor !Claude
+### 🏛️ FOUTA — Plateforme de collecte des recettes publiques
 
-📚 Actuellement en apprentissage
-DevOps : Workflows de déploiement, infrastructure et automatisation.
-Laravel avancé : Approfondissement du framework et conception d'applications backend.
-Node.js avancé : Architecture backend, performances et services évolutifs.
-Architecture logicielle avancée : Principes de conception, modularité, maintenabilité et conception de systèmes.
-IA générative : Compréhension et utilisation des technologies d'intelligence artificielle générative.
-🎯 Objectif professionnel
+Plateforme de l'État destinée à faciliter la collecte des recettes publiques.
 
-Je recherche des opportunités en tant qu'ingénieur backend ou ingénieur logiciel full-stack, afin de contribuer à des produits utiles, de résoudre des défis techniques stimulants et de continuer à progresser dans le domaine du génie logiciel.
+FOUTA remplit deux fonctions principales :
 
-Je m'intéresse particulièrement à :
+- **Gateway (passerelle) :** connexion aux établissements bancaires.
+- **Switch (commutateur) :** orientation et distribution des transactions liées aux recettes de l'État.
 
-L'ingénierie backend et au développement d'API
-L'architecture logicielle et à la conception de systèmes
-Aux outils pour développeurs et à l'automatisation
-À la collaboration open source
-À l'ingénierie produit
-À la conception de logiciels maintenables et évolutifs
+**Domaines concernés :**
+- Développement backend.
+- Intégration de services financiers.
+- Routage des transactions.
+- Communication et intégration entre API.
 
-Je souhaite collaborer avec des équipes compétentes, apprendre à travers des défis concrets, partager mes connaissances et contribuer à des produits qui ont un impact positif.
+### 📩 BNotif — Plateforme de messagerie et de notifications
 
-🤝 Me contacter
-GitHub : MenardoMa
-LinkedIn : Menardo Madiumba
-Portfolio : Visiter mon portfolio
-E-mail : menardomadiumba@gmail.com
-Apprendre continuellement. Concevoir avec rigueur. Contribuer utilement.
+Plateforme tierce basée à Brazzaville, connectée à MTN afin de prendre en charge des services de SMS et d'e-mails personnalisés.
+
+**Domaines concernés :**
+- Intégration de plateformes et de services tiers.
+- Services de messagerie.
+- Communication via API.
+- Notifications personnalisées.
+
+> Les descriptions de ces projets restent volontairement générales afin de préserver les informations internes et confidentielles.
+
+---
+
+## 💻 Stack technique
+
+### 🧑‍💻 Langages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### ⚙️ Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 🗄️ Bases de données
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔧 Outils & Workflows
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 🖥️ Environnement de développement & Design
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+## 📚 Actuellement en apprentissage
+
+- 🚀 **DevOps :** Déploiement, infrastructure et automatisation des workflows.
+- ⚙️ **Laravel avancé :** Approfondissement du framework et conception d'applications backend.
+- 🟢 **Node.js avancé :** Architecture backend, performances et services évolutifs.
+- 🏗️ **Architecture logicielle avancée :** Principes de conception, modularité, maintenabilité et conception de systèmes.
+- 🤖 **IA générative :** Exploration des technologies d'intelligence artificielle générative et de leurs applications.
+
+---
+
+## 🎯 Objectif professionnel
+
+Je souhaite évoluer en tant qu'**ingénieur backend ou ingénieur logiciel full-stack**, en contribuant à des produits utiles, en relevant des défis techniques stimulants et en approfondissant continuellement mes compétences en génie logiciel.
+
+Je m'intéresse particulièrement aux domaines suivants :
+
+- ⚙️ Ingénierie backend et développement d'API.
+- 🏗️ Architecture logicielle et conception de systèmes.
+- 🧩 Outils pour développeurs et automatisation.
+- 🌍 Développement open source et collaboration technique.
+- 💡 Ingénierie produit et conception de solutions utiles.
+- 📈 Développement de logiciels maintenables, fiables et évolutifs.
+
+Je souhaite collaborer avec des équipes engagées, apprendre à travers des problématiques réelles, partager mes connaissances et contribuer à des projets ayant un impact positif.
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenardoMa&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MenardoMa&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 🤝 Me contacter
+
+- **GitHub :** [MenardoMa](https://github.com/MenardoMa)
+- **LinkedIn :** [Menardo Madiumba](https://www.linkedin.com/in/menardo-madiumba/)
+- **Portfolio :** [Visiter mon portfolio](https://porfolio-xi-murex.vercel.app/)
+- **E-mail :** [menardomadiumba@gmail.com](mailto:menardomadiumba@gmail.com)
+
+---
+
+### 💭 Ma philosophie
+
+> Apprendre continuellement. Concevoir avec rigueur. Contribuer utilement.
